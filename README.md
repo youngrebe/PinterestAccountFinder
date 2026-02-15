@@ -1,6 +1,6 @@
 # PinterestAcccountFinder
 
-PinterestAccountFinder is a simple Python tool for finding Pinterest profiles associated with a given email address. It helps you quickly locate a user's profile by entering their email.
+Simple  tool for finding Pinterest profiles associated with a given email address. It helps you quickly locate a user's profile by entering their email.
 
 ## Installation and Usage
 
@@ -37,4 +37,5 @@ Target email: mihaillobacev3@gmail.com
 Profile: https://ru.pinterest.com/rarrepon/
 
 ----------------------------------------
+
 ```
